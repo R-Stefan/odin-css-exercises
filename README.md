@@ -9,3 +9,5 @@ https://github.com/TheOdinProject/css-exercises
 #--Foundations
 
 --01. CSS methods
+
+No observations or difficulties, pretty straightforward, VScode autocomplete saved most of the typing. I can see how all that autocomplete can make you lazy or unknowledgeable.
